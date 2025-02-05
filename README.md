@@ -1,6 +1,4 @@
-Here’s a creative and engaging README template for your Perceptron repository:
 
----
 
 # Perceptron: A Step Towards Intelligent Machines 🤖
 
